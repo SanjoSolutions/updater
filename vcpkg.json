@@ -1,0 +1,8 @@
+{
+  "dependencies": [
+    {
+      "name": "libgit2",
+      "features": ["ssh"]
+    }
+  ]
+}

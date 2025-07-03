@@ -1,0 +1,12 @@
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software,
+to use the software as an updater component for free open-source software under the condition that
+the following line is included somewhere in the distribution of the software somewhere where
+the user of the distributed software can access and see it (i.e. credits file, dialog or page):
+
+The software is updated with the help of Sanjo's updater (https://github.com/SanjoSolutions/updater).
+
+The program is provided “as is”, without warranty of any kind, express or implied,
+including but not limited to the warranties of merchantability, fitness for a particular purpose
+and noninfringement. In no event shall the authors or copyright holders be liable for any claim,
+damages or other liability, whether in an action of contract, tort or otherwise, arising from,
+out of or in connection with the program or the use or other dealings regarding the program.
